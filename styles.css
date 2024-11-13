@@ -1,0 +1,56 @@
+body {
+    background-color: gainsboro;
+    text-align: center;
+}
+
+div {
+    background-color: whitesmoke;
+    margin: 32px;
+    border-radius: 8px;
+    border-style: solid;
+    border-color: snow;
+    border-width: 5px;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+    text-transform: uppercase;
+    color: gray;    
+    padding: 24px;
+}
+
+h2 {
+    font-family: 'Segoe UI', Verdana, sans-serif;
+    font-size: x-large;
+    text-transform: uppercase;
+    color: dimgray;    
+    padding-bottom: 16px;
+}
+
+input, label, button {
+    color: dimgray;
+    font-size: large;
+    font-family: 'Segoe UI', Verdana, sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 32px;
+}
+
+input,button {
+    margin-right: 24px;
+    border-radius: 8px;
+    border-style: solid;
+    border-color: dimgray;
+    border-width: 2px;
+    width: 60px;
+}
+
+.botao {
+    width: 120px;
+    height: 40px;
+    color: ghostwhite;
+    background-color: gray;
+    border-color: gray;
+}
+
