@@ -50,6 +50,10 @@ input,button {
     width: 60px;
 }
 
+.inputTema{
+    width: 300px;
+}
+
 .botao {
     width: 120px;
     height: 40px;
